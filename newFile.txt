@@ -1,2 +1,3 @@
 Line in a new file
 Editing this file
+Changes made in the anotherBranch
